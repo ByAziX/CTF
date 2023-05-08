@@ -1,0 +1,1 @@
+https://github.com/Ectario/pwnme-2023-WU/blob/master/easy/gib-me-initials-of-victor/exploit.py
